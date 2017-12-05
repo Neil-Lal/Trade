@@ -1,0 +1,2 @@
+# Trade
+My beginnings
