@@ -7,3 +7,29 @@ http://www.cboe.com/publish/scheduledtask/mktdata/datahouse/vixcurrent.csv
 String vixUrl = "http://www.cboe.com/publish/scheduledtask/mktdata/datahouse/vixcurrent.csv" ;
 String vxvUrl = "http://www.cboe.com/publish/scheduledtask/mktdata/datahouse/vxvdailyprices.csv" ;
 String futuresUrl = "http://cfe.cboe.com/market-data/futures-settlements" ;
+
+
+http://alta5.com/blog/stronghold/
+https://www.quantopian.com/posts/vix-trading-algorithm-return-150-percent-a-year-over-past-5-years-but-has-50-percent-drawdown-from-2015-meltdown
+
+
+API:
+https://www.interactivebrokers.com/en/index.php?f=5041
+
+
+Personal books finance:
+https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Trader-Part-I
+https://www.quantstart.com/articles/quantitative-finance-reading-list
+https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer
+https://medium.com/@mikeharrisNY/curve-fitting-and-optimization-in-trading-strategy-development-90fa4a8b3507
+
+Web Videos:
+https://www.quantopian.com/lectures#Beta-Hedging
+https://www.quantopian.com/posts
+
+Classes:
+https://www.edx.org/course/pricing-options-mathematical-models-caltechx-bem1105x-3
+https://www.edx.org/course/electronic-trading-financial-markets-new-york-institute-finance-etfm2016x
+https://www.coursera.org/learn/financial-engineering-1
+https://www.coursera.org/browse/business/finance?languages=en&source=deprecated_spark_cdp
+
