@@ -1,0 +1,9 @@
+http://www.nasdaqdod.com/NASDAQAnalytics.asmx?op=GetEndOfDayData
+http://www.nasdaq.com/symbol/xiv/historical
+http://www.nasdaqdod.com/
+
+http://www.cboe.com/publish/scheduledtask/mktdata/datahouse/vixcurrent.csv
+
+String vixUrl = "http://www.cboe.com/publish/scheduledtask/mktdata/datahouse/vixcurrent.csv" ;
+String vxvUrl = "http://www.cboe.com/publish/scheduledtask/mktdata/datahouse/vxvdailyprices.csv" ;
+String futuresUrl = "http://cfe.cboe.com/market-data/futures-settlements" ;
